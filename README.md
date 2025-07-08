@@ -23,8 +23,8 @@ This is my personal portfolio website, built with HTML and CSS, to showcase who 
 ## 📫 Contact
 
 - [GitHub](https://github.com/johnbensenlueck)
-- [LinkedIn](https://linkedin.com/in/YOUR-HANDLE-HERE) <!-- Replace with actual handle -->
-- Email: your@email.com <!-- Replace with your real contact if you want -->
+- [LinkedIn](https://www.linkedin.com/in/john-bensen-lueck-6517a8369/) <!-- Replace with actual handle -->
+- Email: johnbensenlueck@icloud.com <!-- Replace with your real contact if you want -->
 
 ---
 
